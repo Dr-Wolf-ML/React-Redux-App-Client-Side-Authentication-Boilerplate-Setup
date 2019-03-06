@@ -1,3 +1,5 @@
+This repo is part of a client and server project setup for Authentication using the MERN Stack.  Please use in conjunction with https://github.com/Dr-Wolf-ML/React-Redux-App-Server-Side-Authentication-Boilerplate-Setup
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
